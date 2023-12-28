@@ -3,6 +3,9 @@
       "browser": true,
       "es2021": true
     },
+    "exclude": [
+      "tailwind.config.js"
+    ],
     "extends": [
       "plugin:react/recommended",
       "airbnb",
